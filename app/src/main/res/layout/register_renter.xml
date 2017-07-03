@@ -14,7 +14,6 @@
         android:layout_margin="5dp"
         android:background="@drawable/button_style"
         android:orientation="vertical">
-
         <EditText
             android:id="@+id/etName"
             android:layout_width="match_parent"
@@ -22,7 +21,6 @@
             android:ems="10"
             android:hint="Name: eg. Rahim"
             android:inputType="textPersonName" />
-
         <View
             android:layout_width="match_parent"
             android:layout_height="2dp"
@@ -36,7 +34,6 @@
             android:ems="10"
             android:hint="Phone: eg. 01923232312"
             android:inputType="textPersonName" />
-
         <View
             android:layout_width="match_parent"
             android:layout_height="2dp"
@@ -50,7 +47,6 @@
             android:ems="10"
             android:hint="NID: eg. 1237666727373773737"
             android:inputType="textPersonName" />
-
         <View
             android:layout_width="match_parent"
             android:layout_height="2dp"
@@ -63,7 +59,6 @@
             android:layout_height="wrap_content"
             android:ems="10"
             android:hint="Flat Position: eg.2a (2nd floor flat a)" />
-
         <View
             android:layout_width="match_parent"
             android:layout_height="2dp"
@@ -77,7 +72,6 @@
             android:ems="10"
             android:hint="Number of Room: eg.3 room"
             android:inputType="textPersonName" />
-
         <View
             android:layout_width="match_parent"
             android:layout_height="2dp"
@@ -91,7 +85,6 @@
             android:ems="10"
             android:hint="Initial Rent: eg. 7000tk"
             android:inputType="textPersonName" />
-
         <View
             android:layout_width="match_parent"
             android:layout_height="2dp"
@@ -105,7 +98,6 @@
             android:ems="10"
             android:hint="Meter Reading:eg. 180233422"
             android:inputType="textPersonName" />
-
         <View
             android:layout_width="match_parent"
             android:layout_height="2dp"
@@ -119,7 +111,6 @@
             android:ems="10"
             android:hint="Meter Serial Number: eg. 32324242"
             android:inputType="textPersonName" />
-
         <View
             android:layout_width="match_parent"
             android:layout_height="2dp"
@@ -133,7 +124,6 @@
             android:ems="10"
             android:hint="Advance: eg. 2000tk"
             android:inputType="textPersonName" />
-
         <View
             android:layout_width="match_parent"
             android:layout_height="2dp"
