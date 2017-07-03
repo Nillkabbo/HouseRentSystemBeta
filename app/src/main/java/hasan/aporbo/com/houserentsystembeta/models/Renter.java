@@ -138,21 +138,21 @@ public class Renter {
 
         renters.add(new Renter("Shafiq", "Noakhali shodor", "23472342342", "12132424242424", "3-7-2017", "23-4-2008", "Active", "8-2-2018", flat, meter));
 
-        renters.add(new Renter("Shafiq", "Noakhali shodor", "23472342342", "12132424242424", "3-7-2017", "23-4-2008", "Active", "8-2-2018", flat, meter));
+        renters.add(new Renter("Rahim", "Rongpur shodor", "23472342342", "12132424242424", "3-7-2017", "23-4-2008", "Active", "8-2-2018", flat, meter));
 
-        renters.add(new Renter("Shafiq", "Noakhali shodor", "23472342342", "12132424242424", "3-7-2017", "23-4-2008", "Active", "8-2-2018", flat, meter));
+        renters.add(new Renter("Karim", "Dhaka ", "23472342342", "12132424242424", "3-7-2017", "23-4-2008", "Active", "8-2-2018", flat, meter));
 
-        renters.add(new Renter("Shafiq", "Noakhali shodor", "23472342342", "12132424242424", "3-7-2017", "23-4-2008", "Active", "8-2-2018", flat, meter));
+        renters.add(new Renter("Akkas", "Barishal shodor", "23472342342", "12132424242424", "3-7-2017", "23-4-2008", "Active", "8-2-2018", flat, meter));
 
-        renters.add(new Renter("Shafiq", "Noakhali shodor", "23472342342", "12132424242424", "3-7-2017", "23-4-2008", "Active", "8-2-2018", flat, meter));
+        renters.add(new Renter("Jalil", "Chandpur shodor", "23472342342", "12132424242424", "3-7-2017", "23-4-2008", "Active", "8-2-2018", flat, meter));
 
-        renters.add(new Renter("Shafiq", "Noakhali shodor", "23472342342", "12132424242424", "3-7-2017", "23-4-2008", "Active", "8-2-2018", flat, meter));
+        renters.add(new Renter("Malek", "Vhola shodor", "23472342342", "12132424242424", "3-7-2017", "23-4-2008", "Active", "8-2-2018", flat, meter));
 
-        renters.add(new Renter("Shafiq", "Noakhali shodor", "23472342342", "12132424242424", "3-7-2017", "23-4-2008", "Active", "8-2-2018", flat, meter));
+        renters.add(new Renter("Khalek", "Bibaria shodor", "23472342342", "12132424242424", "3-7-2017", "23-4-2008", "Active", "8-2-2018", flat, meter));
 
-        renters.add(new Renter("Shafiq", "Noakhali shodor", "23472342342", "12132424242424", "3-7-2017", "23-4-2008", "Active", "8-2-2018", flat, meter));
+        renters.add(new Renter("Arif", "Kaspur shodor", "23472342342", "12132424242424", "3-7-2017", "23-4-2008", "Active", "8-2-2018", flat, meter));
 
-        renters.add(new Renter("Shafiq", "Noakhali shodor", "23472342342", "12132424242424", "3-7-2017", "23-4-2008", "Active", "8-2-2018", flat, meter));
+        renters.add(new Renter("Shahadat", "Noakhali shodor", "23472342342", "12132424242424", "3-7-2017", "23-4-2008", "Active", "8-2-2018", flat, meter));
 
         return renters;
     }

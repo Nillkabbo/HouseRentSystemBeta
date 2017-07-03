@@ -18,4 +18,7 @@ public class StaticFields {
     public static final String TITLE_RENTERLIST = "ALL RENTER'S LIST";
     public static final String TITLE_BILLINFO = "TOTAL MONTHLY BILL INFO";
     public static final String TITLE_REPORTS = "MONTHLY REPORTS";
+    //------------------Database Constant------------------------
+    public static final String DATABSE_NAME = "renter info";
+
 }
