@@ -2,14 +2,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="hasan.aporbo.com.houserentsystembeta.Accounts">
+    android:gravity="center"
+    tools:context="hasan.aporbo.com.houserentsystembeta.Views.Accounts">
 
-    <!-- TODO: Update blank fragment layout -->
-    <ListView
-        android:id="@+id/countryList"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
+   <TextView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:gravity="center"
+       android:text="This Page Under Construction!!" />
 
-    </ListView>
 
 </LinearLayout>

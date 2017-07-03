@@ -14,7 +14,7 @@ public class Flat {
     private double initialRent;
     private double totalRent;
     private double dueRent;
-    private boolean paidStatus;
+    private String paidStatus;
 
     public Flat(int flatId, String flatPosition,
                 int numberOfRooms,
@@ -24,7 +24,7 @@ public class Flat {
                 double initialRent,
                 double totalRent,
                 double dueRent,
-                boolean paidStatus) {
+                String paidStatus) {
         this.flatId = flatId;
         this.flatPosition = flatPosition;
         this.numberOfRooms = numberOfRooms;
@@ -45,7 +45,7 @@ public class Flat {
                 double initialRent,
                 double totalRent,
                 double dueRent,
-                boolean paidStatus) {
+                String paidStatus) {
         this.flatPosition = flatPosition;
         this.numberOfRooms = numberOfRooms;
         this.electricityBill = electricityBill;
@@ -133,11 +133,11 @@ public class Flat {
         this.dueRent = dueRent;
     }
 
-    public boolean isPaidStatus() {
+    public String isPaidStatus() {
         return paidStatus;
     }
 
-    public void setPaidStatus(boolean paidStatus) {
+    public void setPaidStatus(String paidStatus) {
         this.paidStatus = paidStatus;
     }
 }
